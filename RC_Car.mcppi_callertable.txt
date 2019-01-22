@@ -1,0 +1,8 @@
+main
+	UART_INIT
+	UART_GET_CHARACTER
+	Forward
+	Backward
+	Left
+	Right
+	Stop
